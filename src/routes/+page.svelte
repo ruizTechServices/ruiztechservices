@@ -5,14 +5,14 @@
   <div class="hero-overlay bg-opacity-60" />
   <div class="hero-content text-center text-neutral-content">
     <div class="max-w-md">
-      <h1 class="mb-5 text-5xl font-bold">Hello there</h1>
+      <h1 class="mb-5 text-5xl font-bold ">Hello there</h1>
       <p class="mb-5">What Technological Issues are you Facing today?!</p>
       <button class="btn btn-primary">Get Started</button>
     </div>
   </div>
 </div>
 
-<div class="flex sm:flex-row container mx-auto p-2 flex-col sm:w-full w-auto">
+<div class="flex sm:flex-row container mx-auto p-2 flex-col sm:w-full h-screen w-auto">
   <span
     class="artboard phone-3 bg-[url(https://source.unsplash.com/featured/?computer-desktops)] bg-no-repeat"
   />
@@ -24,9 +24,21 @@
   />
 </div>
 
-<div class="m-7">
+<div class="border-2 container mx-auto flex flex-col text-center justify-center">
+  <h1 class="font-bold text-4xl text-white drop-shadow-2xl border-2 w-max mx-auto">What I am About</h1>
   <div class="collapse collapse-arrow bg-base-200">
     <input type="radio" name="my-accordion-2" checked="checked" />
+    <div class="collapse-title text-xl font-medium">
+      General Technological Issues
+    </div>
+    <div class="collapse-content">
+      <p>
+        General issues like printer issues, or network connectivity issues.
+      </p>
+    </div>
+  </div>
+  <div class="collapse collapse-arrow bg-base-200">
+    <input type="radio" name="my-accordion-2" />
     <div class="collapse-title text-xl font-medium">
       Full-Stack Web Development
     </div>
