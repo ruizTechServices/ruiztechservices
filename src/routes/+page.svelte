@@ -25,7 +25,7 @@
 </div>
 
 <div class="border-2 container mx-auto flex flex-col text-center justify-center">
-  <h1 class="font-bold text-4xl text-white drop-shadow-2xl border-2 w-max mx-auto">What I am About</h1>
+  <h1 class="font-bold text-4xl text-white drop-shadow-2xl border-2 w-max  mx-auto">What I am About</h1>
   <div class="collapse collapse-arrow bg-base-200">
     <input type="radio" name="my-accordion-2" checked="checked" />
     <div class="collapse-title text-xl font-medium">
