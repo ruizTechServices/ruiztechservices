@@ -12,7 +12,7 @@
       ruizTechServices<span id="blinking">|</span>
     </h1>
     <ul class="hidden md:flex space-x-4">
-      <li><a href="#home" class="hover:underline">Home</a></li>
+      <li><a href="/" class="hover:underline">Home</a></li>
       <li><a href="#about" class="hover:underline">About</a></li>
       <li><a href="#contact" class="hover:underline">Contact</a></li>
       <li><a href="#blog" class="hover:underline">Blog</a></li>
