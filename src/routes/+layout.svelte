@@ -7,7 +7,7 @@
 
 <Navbar />
 
-<div class="">
-<slot />
-</div>
+<main>
+  <slot />
+</main>
 <Footer />

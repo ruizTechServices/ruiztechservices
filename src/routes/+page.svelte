@@ -12,20 +12,9 @@
   </div>
 </div>
 
-<div class="flex sm:flex-row container mx-auto p-2 flex-col sm:w-full h-screen w-auto">
-  <span
-    class="artboard phone-3 bg-[url(https://source.unsplash.com/featured/?computer-desktops)] bg-no-repeat"
-  />
-  <span
-    class="artboard phone-3 bg-[url(https://source.unsplash.com/featured/?computer-speakers)] bg-no-repeat"
-  />
-  <span
-    class="artboard phone-3 bg-[url(https://source.unsplash.com/featured/?laptops)] bg-no-repeat"
-  />
-</div>
 
-<div class="border-2 container mx-auto flex flex-col text-center justify-center">
-  <h1 class="font-bold text-4xl text-white drop-shadow-2xl border-2 w-max  mx-auto">What I am About</h1>
+<div class="text-center justify-center ">
+  <h1 class="font-bold text-4xl text-white drop-shadow-2xl w-max mx-auto">What I am About</h1>
   <div class="collapse collapse-arrow bg-base-200">
     <input type="radio" name="my-accordion-2" checked="checked" />
     <div class="collapse-title text-xl font-medium">
@@ -72,3 +61,5 @@
     </div>
   </div>
 </div>
+
+
